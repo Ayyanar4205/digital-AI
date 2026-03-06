@@ -1,0 +1,5 @@
+{
+  "name": "Online Handwriting Recognizer",
+  "description": "AI-powered OCR tools to turn handwriting into digital text instantly.",
+  "requestFramePermissions": ["camera"]
+}
